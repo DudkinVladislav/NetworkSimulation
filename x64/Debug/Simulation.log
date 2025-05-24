@@ -1,0 +1,74 @@
+﻿  main.cpp
+C:\Users\1\source\repos\Simulation\main.cpp(96,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(202,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(202,41): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(206,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(319,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(319,45): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(324,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(350,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(350,49): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(355,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(393,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(393,53): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(398,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(434,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(434,53): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(439,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(479,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(479,49): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(484,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(507,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(507,49): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(512,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(541,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(541,53): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(546,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(578,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(578,53): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(583,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(625,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(625,57): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(630,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(652,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(652,61): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(657,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(695,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(695,57): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(700,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(722,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(722,61): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(727,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(783,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(783,57): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(788,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(823,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(823,57): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(828,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(882,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(882,45): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(887,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(915,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(915,53): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(920,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(972,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(972,53): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(977,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(1015,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(1015,53): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(1020,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(1078,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(1078,45): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(1083,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(1115,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(1115,53): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(1120,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(1182,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(1182,53): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(1187,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(1226,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\1\source\repos\Simulation\main.cpp(1226,53): warning C4309: инициализация: усечение константного значения
+C:\Users\1\source\repos\Simulation\main.cpp(1231,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Simulation\main.cpp(1287,9): warning C4101: nomer_poyavilsya: неиспользованная локальная переменная
+C:\Users\1\source\repos\Simulation\main.cpp(1286,9): warning C4101: nomer_tek: неиспользованная локальная переменная
+  Simulation.vcxproj -> C:\Users\1\source\repos\Simulation\x64\Debug\Simulation.exe
